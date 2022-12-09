@@ -1,0 +1,15 @@
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\bin\Debug\net7.0\Camp Cleanup.exe
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\bin\Debug\net7.0\Camp Cleanup.deps.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\bin\Debug\net7.0\Camp Cleanup.runtimeconfig.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\bin\Debug\net7.0\Camp Cleanup.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\bin\Debug\net7.0\Camp Cleanup.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.csproj.AssemblyReference.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.AssemblyInfoInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.AssemblyInfo.cs
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\refint\Camp Cleanup.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\Camp Cleanup.genruntimeconfig.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\Camp Cleanup\obj\Debug\net7.0\ref\Camp Cleanup.dll

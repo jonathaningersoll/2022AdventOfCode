@@ -1,0 +1,15 @@
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.csproj.AssemblyReference.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.AssemblyInfoInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.AssemblyInfo.cs
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\bin\Debug\net7.0\Rucksack Reorganization.exe
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\bin\Debug\net7.0\Rucksack Reorganization.deps.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\bin\Debug\net7.0\Rucksack Reorganization.runtimeconfig.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\bin\Debug\net7.0\Rucksack Reorganization.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\bin\Debug\net7.0\Rucksack Reorganization.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\refint\Rucksack Reorganization.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\Rucksack Reorganization.genruntimeconfig.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_03\Rucksack Reorganization\obj\Debug\net7.0\ref\Rucksack Reorganization.dll

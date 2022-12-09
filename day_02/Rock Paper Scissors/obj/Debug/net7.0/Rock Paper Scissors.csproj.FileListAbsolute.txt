@@ -1,0 +1,15 @@
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\bin\Debug\net7.0\Rock Paper Scissors.exe
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\bin\Debug\net7.0\Rock Paper Scissors.deps.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\bin\Debug\net7.0\Rock Paper Scissors.runtimeconfig.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\bin\Debug\net7.0\Rock Paper Scissors.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\bin\Debug\net7.0\Rock Paper Scissors.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.csproj.AssemblyReference.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\refint\Rock Paper Scissors.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\Rock Paper Scissors.genruntimeconfig.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_02\Rock Paper Scissors\obj\Debug\net7.0\ref\Rock Paper Scissors.dll

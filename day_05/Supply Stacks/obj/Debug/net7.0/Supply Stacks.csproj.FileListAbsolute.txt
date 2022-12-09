@@ -1,0 +1,15 @@
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\bin\Debug\net7.0\Supply Stacks.exe
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\bin\Debug\net7.0\Supply Stacks.deps.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\bin\Debug\net7.0\Supply Stacks.runtimeconfig.json
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\bin\Debug\net7.0\Supply Stacks.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\bin\Debug\net7.0\Supply Stacks.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.csproj.AssemblyReference.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.AssemblyInfoInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.AssemblyInfo.cs
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\refint\Supply Stacks.dll
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.pdb
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\Supply Stacks.genruntimeconfig.cache
+C:\Users\jonathan.ingersoll\Documents\VS Code Projects\C#\Advent Of Code\AoC_2022\day_05\Supply Stacks\obj\Debug\net7.0\ref\Supply Stacks.dll
