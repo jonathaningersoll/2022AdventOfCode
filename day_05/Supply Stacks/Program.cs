@@ -44,7 +44,7 @@ namespace CampCleanup
 
             var origin = new List<string>();
             var destination = new List<string>();
-
+            //skip the first 12 lines (or so)
             i.ForEach(instruction => {
                 instruction = instruction.Replace("move ", "");
                 instruction = instruction.Replace(" from ", ".");
@@ -57,18 +57,18 @@ namespace CampCleanup
 
                 for(int m = 1; m <= q; m++)
                 {
-                    var crate = boat[o].Last().ToString();
-                    boat[d].Add(crate);                    
-                    boat[o].Remove(crate);
+                    var crate = testBoat[o].Last().ToString(); // does it have to be ToString()?
+                    testBoat[d].Add(crate);                    
+                    testBoat[o].Remove(crate);
                 }
                 //Console.Clear();
-                PrintStacks(boat);
+                //PrintStacks(boat);
             });
             /*testBoat.ForEach(stack => {
                 Console.Write(stack.Last());
             });*/
-            boat.ForEach(stack => {
-                Console.Write(stack.Last());
+            testBoat.ForEach(stack => {
+                Console.WriteLine(stack.Last());
             });
         }
 
@@ -76,7 +76,7 @@ namespace CampCleanup
         {
             for(int z = 0; z < boat.Count(); z++)
                 {
-                    Console.Clear();
+                    //System.Console.Clear();
                     Console.Write($"Stack {z+1}");
                     boat[z].ForEach(crate => Console.Write("["+crate+"]"));
                     Console.WriteLine();
